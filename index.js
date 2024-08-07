@@ -72,3 +72,7 @@ function numbervalue(a=2,b=5){
 }
 numbervalue();
 
+// Template Literals
+let firstName1 = "Gokul";
+console.log(`Hello ${firstName1}!`);
+
